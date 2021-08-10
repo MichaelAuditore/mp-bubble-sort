@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelAuditore/mp-pluralize.git"
+    "url": "git+https://github.com/MichaelAuditore/mp-bubble-sort.git"
   },
   "author": "michaelauditore <michael_v613@hotmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MichaelAuditore/mp-pluralize/issues"
+    "url": "https://github.com/MichaelAuditore/mp-bubble-sort/issues"
   },
-  "homepage": "https://github.com/MichaelAuditore/mp-pluralize#readme",
+  "homepage": "https://github.com/MichaelAuditore/mp-bubble-sort#readme",
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.3.4",
