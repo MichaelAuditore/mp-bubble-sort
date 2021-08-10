@@ -1,0 +1,27 @@
+{
+  "name": "mp-bubble-sort",
+  "version": "1.0.1",
+  "description": "Package to sort a list using bubble sorting method",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelAuditore/mp-pluralize.git"
+  },
+  "author": "michaelauditore <michael_v613@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelAuditore/mp-pluralize/issues"
+  },
+  "homepage": "https://github.com/MichaelAuditore/mp-pluralize#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3",
+    "typescript": "^2.5.3"
+  }
+}
