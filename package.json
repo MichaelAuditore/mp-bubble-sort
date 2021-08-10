@@ -1,6 +1,6 @@
 {
   "name": "mp-bubble-sort",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Package to sort a list using bubble sorting method",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
